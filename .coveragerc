@@ -1,0 +1,3 @@
+[run]
+source = db_design
+omit = db_design/test*
